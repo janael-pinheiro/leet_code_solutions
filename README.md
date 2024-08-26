@@ -2,4 +2,5 @@
 
 Challenges solved:
 - Remove duplicates from sorted array;
-- Majority element.
+- Majority element;
+- Roman to integer.
