@@ -1,4 +1,5 @@
 # LeetCode Solutions
 
 Challenges solved:
-- Remove duplicates from sorted array.
+- Remove duplicates from sorted array;
+- Majority element.
