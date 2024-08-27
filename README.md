@@ -9,4 +9,5 @@ Challenges solved:
 - Longest common prefix;
 - Find the index of the first occurrence in a string;
 - Valid parentheses;
-- Ransom note.
+- Ransom note;
+- Contains duplicate 2.
