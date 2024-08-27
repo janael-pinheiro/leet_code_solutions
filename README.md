@@ -6,4 +6,5 @@ Challenges solved:
 - Roman to integer;
 - Merge two sorted arrays;
 - Length of last word;
-- Longest common prefix.
+- Longest common prefix;
+- Find the index of the first occurrence in a string. 
