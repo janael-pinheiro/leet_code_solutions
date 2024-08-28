@@ -11,4 +11,6 @@ Challenges solved:
 - Valid parentheses;
 - Ransom note;
 - Contains duplicate 2;
-- Summary ranges.
+- Summary ranges;
+- Happy number;
+- Valid anagram.
