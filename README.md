@@ -13,4 +13,5 @@ Challenges solved:
 - Contains duplicate 2;
 - Summary ranges;
 - Happy number;
-- Valid anagram.
+- Valid anagram;
+- Best time to buy and sell stock.
