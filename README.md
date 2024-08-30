@@ -15,4 +15,5 @@ Challenges solved:
 - Happy number;
 - Valid anagram;
 - Best time to buy and sell stock;
-- Is subsequence.
+- Is subsequence;
+- Valid palindrome.
