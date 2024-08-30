@@ -16,4 +16,5 @@ Challenges solved:
 - Valid anagram;
 - Best time to buy and sell stock;
 - Is subsequence;
-- Valid palindrome.
+- Valid palindrome;
+- Maximum depth of binary tree.
