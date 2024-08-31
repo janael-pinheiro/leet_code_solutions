@@ -17,4 +17,5 @@ Challenges solved:
 - Best time to buy and sell stock;
 - Is subsequence;
 - Valid palindrome;
-- Maximum depth of binary tree.
+- Maximum depth of binary tree;
+- Same tree.

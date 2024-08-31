@@ -13,11 +13,17 @@ def build_tree():
         while index < len(nodes):
             current = queue.pop(0)
             if index < len(nodes):
-                current.left = TreeNode(nodes[index])
+                if nodes[index] is None:
+                    current.left = None
+                else:
+                    current.left = TreeNode(nodes[index])
                 queue.append(current.left)
                 index += 1
             if index < len(nodes):
-                current.right = TreeNode(nodes[index])
+                if nodes[index] is None:
+                    current.right = None
+                else:
+                    current.right = TreeNode(nodes[index])
                 queue.append(current.right)
                 index += 1
         return root
