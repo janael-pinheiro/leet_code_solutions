@@ -18,4 +18,5 @@ Challenges solved:
 - Is subsequence;
 - Valid palindrome;
 - Maximum depth of binary tree;
-- Same tree.
+- Same tree;
+- Invert Binary Tree.

@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Union
 from pytest import fixture
 
 from leet_code.maximum_depth_of_binary_tree import TreeNode
@@ -6,7 +6,9 @@ from leet_code.maximum_depth_of_binary_tree import TreeNode
 
 @fixture(scope="function")
 def build_tree():
-    def wrapper(nodes: List[int]) -> TreeNode:
+    def wrapper(nodes: List[int]) -> Union[TreeNode, None]:
+        if len(nodes) == 0:
+            return None
         root = TreeNode(nodes[0])
         queue = [root]
         index = 1
