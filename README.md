@@ -21,4 +21,5 @@ Challenges solved:
 - Same tree;
 - Invert Binary Tree;
 - Path sum;
-- Count complete tree nodes.
+- Count complete tree nodes;
+- Symmetric tree.
