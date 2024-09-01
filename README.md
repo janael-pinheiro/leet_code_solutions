@@ -22,4 +22,5 @@ Challenges solved:
 - Invert Binary Tree;
 - Path sum;
 - Count complete tree nodes;
-- Symmetric tree.
+- Symmetric tree;
+- Search insert position.
