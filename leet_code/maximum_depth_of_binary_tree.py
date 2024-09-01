@@ -1,13 +1,5 @@
-from __future__ import annotations
 from typing import Optional
-from dataclasses import dataclass
-
-
-@dataclass
-class TreeNode:
-    val: int
-    left: TreeNode = None
-    right: TreeNode = None
+from leet_code.tree_node import TreeNode
 
 
 def max_depth(root: Optional[TreeNode]):

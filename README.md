@@ -19,4 +19,5 @@ Challenges solved:
 - Valid palindrome;
 - Maximum depth of binary tree;
 - Same tree;
-- Invert Binary Tree.
+- Invert Binary Tree;
+- Path sum.

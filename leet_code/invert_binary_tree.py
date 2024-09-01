@@ -1,4 +1,4 @@
-from leet_code.maximum_depth_of_binary_tree import TreeNode
+from leet_code.tree_node import TreeNode
 from typing import Optional
 
 

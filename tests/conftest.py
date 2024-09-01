@@ -1,7 +1,7 @@
 from typing import List, Union
 from pytest import fixture
 
-from leet_code.maximum_depth_of_binary_tree import TreeNode
+from leet_code.tree_node import TreeNode
 
 
 @fixture(scope="function")
@@ -14,6 +14,8 @@ def build_tree():
         index = 1
         while index < len(nodes):
             current = queue.pop(0)
+            if current is None:
+                continue
             if index < len(nodes):
                 if nodes[index] is None:
                     current.left = None
