@@ -24,4 +24,5 @@ Challenges solved:
 - Count complete tree nodes;
 - Symmetric tree;
 - Search insert position;
-- Word pattern.
+- Word pattern;
+- Plus one.
