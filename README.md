@@ -20,4 +20,5 @@ Challenges solved:
 - Maximum depth of binary tree;
 - Same tree;
 - Invert Binary Tree;
-- Path sum.
+- Path sum;
+- Count complete tree nodes.
