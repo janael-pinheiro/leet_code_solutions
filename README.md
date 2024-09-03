@@ -25,4 +25,5 @@ Challenges solved:
 - Symmetric tree;
 - Search insert position;
 - Word pattern;
-- Plus one.
+- Plus one;
+- Rotate array.
