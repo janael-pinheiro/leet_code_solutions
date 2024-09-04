@@ -26,4 +26,5 @@ Challenges solved:
 - Search insert position;
 - Word pattern;
 - Plus one;
-- Rotate array.
+- Rotate array;
+- Merge two sorted lists.

@@ -1,7 +1,7 @@
 from typing import List, Union
 from pytest import fixture
 
-from leet_code.tree_node import TreeNode
+from leet_code.nodes import TreeNode, ListNode
 
 
 @fixture(scope="function")
@@ -31,4 +31,24 @@ def build_tree():
                 queue.append(current.right)
                 index += 1
         return root
+    return wrapper
+
+
+@fixture(scope="function")
+def build_list_nodes():
+    def wrapper(nodes: List[int]) -> Union[ListNode, None]:
+        if len(nodes) == 0:
+            return None
+        if len(nodes) == 1:
+            return ListNode(nodes[0])
+        last = ListNode(nodes[-1])
+        index = len(nodes) - 2
+        while index > 0:
+            current = ListNode(nodes[index])
+            current.next = last
+            last = current
+            index -= 1
+        head = ListNode(nodes[0])
+        head.next = last
+        return head
     return wrapper

@@ -8,3 +8,9 @@ class TreeNode:
     val: int
     left: TreeNode = None
     right: TreeNode = None
+
+
+@dataclass
+class ListNode:
+    val: int
+    next: ListNode = None

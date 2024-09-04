@@ -1,5 +1,5 @@
 from typing import Optional
-from leet_code.tree_node import TreeNode
+from leet_code.nodes import TreeNode
 
 
 def max_depth(root: Optional[TreeNode]):

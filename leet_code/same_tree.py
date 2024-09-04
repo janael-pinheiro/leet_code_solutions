@@ -1,6 +1,6 @@
 from typing import Optional
 
-from leet_code.tree_node import TreeNode
+from leet_code.nodes import TreeNode
 
 
 def is_same_tree(p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:

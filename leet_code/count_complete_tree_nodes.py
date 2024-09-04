@@ -1,4 +1,4 @@
-from leet_code.tree_node import TreeNode
+from leet_code.nodes import TreeNode
 from typing import Optional
 
 
