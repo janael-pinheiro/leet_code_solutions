@@ -27,4 +27,5 @@ Challenges solved:
 - Word pattern;
 - Plus one;
 - Rotate array;
-- Merge two sorted lists.
+- Merge two sorted lists;
+- Square root.
