@@ -30,4 +30,5 @@ Challenges solved:
 - Merge two sorted lists;
 - Square root;
 - Number of 1 bits;
-- Single number.
+- Single number;
+- Reverse bits.
