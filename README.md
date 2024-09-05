@@ -29,4 +29,5 @@ Challenges solved:
 - Rotate array;
 - Merge two sorted lists;
 - Square root;
-- Number of 1 bits.
+- Number of 1 bits;
+- Single number.
