@@ -33,4 +33,5 @@ Challenges solved:
 - Single number;
 - Reverse bits;
 - Maximum size subarray sum;
-- Longest Substring Without Repeating Characters.
+- Longest Substring Without Repeating Characters;
+- Two sum II - input array is sorted.
