@@ -35,4 +35,5 @@ Challenges solved:
 - Maximum size subarray sum;
 - Longest Substring Without Repeating Characters;
 - Two sum II - input array is sorted;
-- Add two numbers.
+- Add two numbers;
+- Reverse linked list 2.
