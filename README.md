@@ -31,4 +31,5 @@ Challenges solved:
 - Square root;
 - Number of 1 bits;
 - Single number;
-- Reverse bits.
+- Reverse bits;
+- Maximum size subarray sum.
