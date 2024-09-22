@@ -34,4 +34,5 @@ Challenges solved:
 - Reverse bits;
 - Maximum size subarray sum;
 - Longest Substring Without Repeating Characters;
-- Two sum II - input array is sorted.
+- Two sum II - input array is sorted;
+- Add two numbers.
