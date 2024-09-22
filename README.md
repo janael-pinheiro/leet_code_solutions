@@ -32,4 +32,5 @@ Challenges solved:
 - Number of 1 bits;
 - Single number;
 - Reverse bits;
-- Maximum size subarray sum.
+- Maximum size subarray sum;
+- Longest Substring Without Repeating Characters.
