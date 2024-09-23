@@ -36,4 +36,5 @@ Challenges solved:
 - Longest Substring Without Repeating Characters;
 - Two sum II - input array is sorted;
 - Add two numbers;
-- Reverse linked list 2.
+- Reverse linked list 2;
+- Kth smallest element in a BST.
