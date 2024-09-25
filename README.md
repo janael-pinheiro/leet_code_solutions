@@ -37,4 +37,5 @@ Challenges solved:
 - Two sum II - input array is sorted;
 - Add two numbers;
 - Reverse linked list 2;
-- Kth smallest element in a BST.
+- Kth smallest element in a BST;
+- Jump game.
