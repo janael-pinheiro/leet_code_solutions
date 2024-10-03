@@ -38,4 +38,5 @@ Challenges solved:
 - Add two numbers;
 - Reverse linked list 2;
 - Kth smallest element in a BST;
-- Jump game.
+- Jump game;
+- Jump game 2.
