@@ -14,7 +14,8 @@ Challenges solved:
 - Summary ranges;
 - Happy number;
 - Valid anagram;
-- Best time to buy and sell stock;
+- Best time to buy and sell stock; 
+- Best time to buy and sell stock 2;
 - Is subsequence;
 - Valid palindrome;
 - Maximum depth of binary tree;
