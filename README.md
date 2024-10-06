@@ -4,6 +4,7 @@ Challenges solved:
 - Remove duplicates from sorted array;
 - Majority element;
 - Roman to integer;
+- Integer to roman;
 - Merge two sorted arrays;
 - Length of last word;
 - Longest common prefix;
