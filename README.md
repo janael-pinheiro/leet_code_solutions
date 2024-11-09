@@ -41,4 +41,5 @@ Challenges solved:
 - Reverse linked list 2;
 - Kth smallest element in a BST;
 - Jump game;
-- Jump game 2.
+- Jump game 2;
+- Remove duplicates from sorted list.
