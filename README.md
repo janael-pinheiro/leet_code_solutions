@@ -42,4 +42,5 @@ Challenges solved:
 - Kth smallest element in a BST;
 - Jump game;
 - Jump game 2;
-- Remove duplicates from sorted list.
+- Remove duplicates from sorted list;
+- Binary tree inorder transversal.
