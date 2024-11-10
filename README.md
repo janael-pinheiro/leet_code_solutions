@@ -50,4 +50,5 @@ Challenges solved:
 - Reverse string;
 - Reverse vowels of a string;
 - Move zeros;
-- Reverse Linked List.
+- Reverse Linked List;
+- Power of two.
