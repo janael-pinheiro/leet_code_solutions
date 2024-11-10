@@ -48,4 +48,5 @@ Challenges solved:
 - Binary tree postorder transversal;
 - Minimum depth binary tree;
 - Reverse string;
-- Reverse vowels of a string.
+- Reverse vowels of a string;
+- Move zeros.
