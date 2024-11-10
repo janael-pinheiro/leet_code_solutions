@@ -49,4 +49,5 @@ Challenges solved:
 - Minimum depth binary tree;
 - Reverse string;
 - Reverse vowels of a string;
-- Move zeros.
+- Move zeros;
+- Reverse Linked List.
