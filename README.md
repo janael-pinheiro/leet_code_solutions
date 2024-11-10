@@ -46,4 +46,5 @@ Challenges solved:
 - Binary tree inorder transversal;
 - Binary tree preorder transversal;
 - Binary tree postorder transversal;
-- Minimum depth binary tree.
+- Minimum depth binary tree;
+- Reverse string.
