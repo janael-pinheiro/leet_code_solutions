@@ -44,4 +44,5 @@ Challenges solved:
 - Jump game 2;
 - Remove duplicates from sorted list;
 - Binary tree inorder transversal;
-- Binary tree preorder transversal.
+- Binary tree preorder transversal;
+- Binary tree postorder transversal. 
