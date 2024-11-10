@@ -45,4 +45,5 @@ Challenges solved:
 - Remove duplicates from sorted list;
 - Binary tree inorder transversal;
 - Binary tree preorder transversal;
-- Binary tree postorder transversal. 
+- Binary tree postorder transversal;
+- Minimum depth binary tree.
