@@ -51,4 +51,5 @@ Challenges solved:
 - Reverse vowels of a string;
 - Move zeros;
 - Reverse Linked List;
-- Power of two.
+- Power of two;
+- Find the kth character in string game I.
