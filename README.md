@@ -55,4 +55,5 @@ Challenges solved:
 - Find the kth character in string game I;
 - Fibonacci number;
 - Contains duplicate;
-- Fizz Buzz.
+- Fizz Buzz;
+- Reverse words in a string 3.
