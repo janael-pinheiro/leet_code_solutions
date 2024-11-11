@@ -54,4 +54,5 @@ Challenges solved:
 - Power of two;
 - Find the kth character in string game I;
 - Fibonacci number;
-- Contains duplicate.
+- Contains duplicate;
+- Fizz Buzz.
