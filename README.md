@@ -53,4 +53,5 @@ Challenges solved:
 - Reverse Linked List;
 - Power of two;
 - Find the kth character in string game I;
-- Fibonacci number.
+- Fibonacci number;
+- Contains duplicate.
