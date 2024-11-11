@@ -52,4 +52,5 @@ Challenges solved:
 - Move zeros;
 - Reverse Linked List;
 - Power of two;
-- Find the kth character in string game I.
+- Find the kth character in string game I;
+- Fibonacci number.
