@@ -56,4 +56,5 @@ Challenges solved:
 - Fibonacci number;
 - Contains duplicate;
 - Fizz Buzz;
-- Reverse words in a string 3.
+- Reverse words in a string 3;
+- Detect capital.
