@@ -58,4 +58,5 @@ Challenges solved:
 - Fizz Buzz;
 - Reverse words in a string 3;
 - Detect capital;
-- Missing number.
+- Missing number;
+- Smallest range.
