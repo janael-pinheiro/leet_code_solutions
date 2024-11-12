@@ -59,4 +59,5 @@ Challenges solved:
 - Reverse words in a string 3;
 - Detect capital;
 - Missing number;
-- Smallest range.
+- Smallest range;
+- Number of good pairs.
