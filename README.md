@@ -57,4 +57,5 @@ Challenges solved:
 - Contains duplicate;
 - Fizz Buzz;
 - Reverse words in a string 3;
-- Detect capital.
+- Detect capital;
+- Missing number.
