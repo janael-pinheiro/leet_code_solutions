@@ -60,4 +60,5 @@ Challenges solved:
 - Detect capital;
 - Missing number;
 - Smallest range;
-- Number of good pairs.
+- Number of good pairs;
+- Sum of all odd length sub arrays.
