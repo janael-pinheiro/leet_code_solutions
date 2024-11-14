@@ -62,4 +62,5 @@ Challenges solved:
 - Smallest range;
 - Number of good pairs;
 - Sum of all odd length sub arrays;
-- Product of array except self.
+- Product of array except self;
+- Longest consecutive sequence.
