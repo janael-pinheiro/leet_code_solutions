@@ -63,4 +63,5 @@ Challenges solved:
 - Number of good pairs;
 - Sum of all odd length sub arrays;
 - Product of array except self;
-- Longest consecutive sequence.
+- Longest consecutive sequence;
+- Group anagrams.
