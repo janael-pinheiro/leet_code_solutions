@@ -66,4 +66,5 @@ Challenges solved:
 - Longest consecutive sequence;
 - Group anagrams;
 - Container with most water;
-- Gas station.
+- Gas station;
+- Evaluate Reverse Polish notation.
