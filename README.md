@@ -67,4 +67,5 @@ Challenges solved:
 - Group anagrams;
 - Container with most water;
 - Gas station;
-- Evaluate Reverse Polish notation.
+- Evaluate Reverse Polish notation;
+- Merge strings alternately.
