@@ -68,4 +68,5 @@ Challenges solved:
 - Container with most water;
 - Gas station;
 - Evaluate Reverse Polish notation;
-- Merge strings alternately.
+- Merge strings alternately;
+- Find the difference of two arrays.
