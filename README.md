@@ -71,4 +71,5 @@ Challenges solved:
 - Merge strings alternately;
 - Find the difference of two arrays;
 - Maximum average subarray 1;
-- String compression.
+- String compression;
+- Maximum number of vowels in a substring of given length.
