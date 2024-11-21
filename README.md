@@ -69,4 +69,5 @@ Challenges solved:
 - Gas station;
 - Evaluate Reverse Polish notation;
 - Merge strings alternately;
-- Find the difference of two arrays.
+- Find the difference of two arrays;
+- Maximum average subarray 1.
