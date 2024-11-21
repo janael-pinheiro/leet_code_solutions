@@ -70,4 +70,5 @@ Challenges solved:
 - Evaluate Reverse Polish notation;
 - Merge strings alternately;
 - Find the difference of two arrays;
-- Maximum average subarray 1.
+- Maximum average subarray 1;
+- String compression.
