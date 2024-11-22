@@ -74,3 +74,5 @@ Challenges solved:
 - String compression;
 - Maximum number of vowels in a substring of given length;
 - Find the highest altitude.
+- **Easy**:
+    - 1207 - Unique number of occurrences;
