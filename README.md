@@ -72,4 +72,5 @@ Challenges solved:
 - Find the difference of two arrays;
 - Maximum average subarray 1;
 - String compression;
-- Maximum number of vowels in a substring of given length.
+- Maximum number of vowels in a substring of given length;
+- Find the highest altitude.
