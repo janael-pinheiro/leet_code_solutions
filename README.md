@@ -69,10 +69,11 @@ Challenges solved:
 - Gas station;
 - Evaluate Reverse Polish notation;
 - Merge strings alternately;
-- Find the difference of two arrays;
-- Maximum average subarray 1;
-- String compression;
-- Maximum number of vowels in a substring of given length;
-- Find the highest altitude.
+- **Medium**:
+  - 2215 - Find the difference of two arrays;
+  - 443 - String compression;
+  - 1456 - Maximum number of vowels in a substring of given length;
 - **Easy**:
-    - 1207 - Unique number of occurrences;
+  - 643 - Maximum average subarray 1;
+  - 1732 - Find the highest altitude;
+  - 1207 - Unique number of occurrences;
