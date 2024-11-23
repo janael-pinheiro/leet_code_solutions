@@ -48,7 +48,6 @@ Challenges solved:
 - Binary tree postorder transversal;
 - Minimum depth binary tree;
 - Reverse string;
-- Reverse vowels of a string;
 - Move zeros;
 - Reverse Linked List;
 - Power of two;
@@ -72,6 +71,7 @@ Challenges solved:
 - **Medium**:
   - Array/String:
     - 443\. String compression;
+    - 151\. Reverse words in a string;
   - Sliding Window:
     - 1456\. Maximum number of vowels in a substring of given length;
 - **Easy**:
@@ -79,6 +79,7 @@ Challenges solved:
     - 1768\. Merge strings alternately;
     - 1431\. Kids with the greatest number of candies;
     - 605\. Can place flowers;
+    - 345\. Reverse vowels of a string;
   - Sliding Window:
     - 643\. Maximum average subarray 1;
   - Prefix sum:
