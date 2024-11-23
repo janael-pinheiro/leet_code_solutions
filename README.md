@@ -78,6 +78,7 @@ Challenges solved:
   - Array/String:
     - 1768\. Merge strings alternately;
     - 1431\. Kids with the greatest number of candies;
+    - 605\. Can place flowers;
   - Sliding Window:
     - 643\. Maximum average subarray 1;
   - Prefix sum:
