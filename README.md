@@ -68,12 +68,20 @@ Challenges solved:
 - Container with most water;
 - Gas station;
 - Evaluate Reverse Polish notation;
-- Merge strings alternately;
+
 - **Medium**:
-  - 2215 - Find the difference of two arrays;
-  - 443 - String compression;
-  - 1456 - Maximum number of vowels in a substring of given length;
+  - Array/String:
+    - 443\. String compression;
+  - Sliding Window:
+    - 1456\. Maximum number of vowels in a substring of given length;
 - **Easy**:
-  - 643 - Maximum average subarray 1;
-  - 1732 - Find the highest altitude;
-  - 1207 - Unique number of occurrences;
+  - Array/String:
+    - 1768\. Merge strings alternately;
+    - 1431\. Kids with the greatest number of candies;
+  - Sliding Window:
+    - 643\. Maximum average subarray 1;
+  - Prefix sum:
+    - 1732\. Find the highest altitude;
+  - Hashmap/Set:
+    - 1207\. Unique number of occurrences;
+    - 2215\. Find the difference of two arrays;
