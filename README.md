@@ -17,9 +17,7 @@ Challenges solved:
 - Valid anagram;
 - Best time to buy and sell stock; 
 - Best time to buy and sell stock 2;
-- Is subsequence;
 - Valid palindrome;
-- Maximum depth of binary tree;
 - Same tree;
 - Invert Binary Tree;
 - Path sum;
@@ -32,7 +30,6 @@ Challenges solved:
 - Merge two sorted lists;
 - Square root;
 - Number of 1 bits;
-- Single number;
 - Reverse bits;
 - Maximum size subarray sum;
 - Longest Substring Without Repeating Characters;
@@ -48,8 +45,6 @@ Challenges solved:
 - Binary tree postorder transversal;
 - Minimum depth binary tree;
 - Reverse string;
-- Move zeros;
-- Reverse Linked List;
 - Power of two;
 - Find the kth character in string game I;
 - Fibonacci number;
@@ -61,25 +56,32 @@ Challenges solved:
 - Smallest range;
 - Number of good pairs;
 - Sum of all odd length sub arrays;
-- Product of array except self;
-- Longest consecutive sequence;
-- Group anagrams;
-- Container with most water;
-- Gas station;
-- Evaluate Reverse Polish notation;
 
 - **Medium**:
   - Array/String:
     - 443\. String compression;
     - 151\. Reverse words in a string;
+    - 238\. Product of array except self;
+  - Stack:
+    - 150\. Evaluate Reverse Polish notation;
+  - Two pointers:
+    - 11\. Container with most water;
   - Sliding Window:
     - 1456\. Maximum number of vowels in a substring of given length;
+  - Greedy:
+    - 134\. Gas station;
+  - Hashmap/set:
+    - 49\. Group anagrams;
+    - 128\. Longest consecutive sequence;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
     - 1431\. Kids with the greatest number of candies;
     - 605\. Can place flowers;
     - 345\. Reverse vowels of a string;
+  - Two pointers:
+    - 283\. Move zeros;
+    - 392\. Is subsequence;
   - Sliding Window:
     - 643\. Maximum average subarray 1;
   - Prefix sum:
@@ -87,3 +89,9 @@ Challenges solved:
   - Hashmap/Set:
     - 1207\. Unique number of occurrences;
     - 2215\. Find the difference of two arrays;
+  - Linked list:
+    - 206\. Reverse Linked List;
+  - Binary tree:
+    - 104\. Maximum depth of binary tree;
+  - Bit manipulation:
+    - 136\. Single number;

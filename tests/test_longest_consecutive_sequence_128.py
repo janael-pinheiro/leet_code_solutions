@@ -1,4 +1,4 @@
-from leet_code.longest_consecutive_sequence import longest_consecutive
+from leet_code.longest_consecutive_sequence_128 import longest_consecutive
 from pytest import mark
 
 

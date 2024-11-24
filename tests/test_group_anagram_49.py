@@ -1,4 +1,4 @@
-from leet_code.group_anagrams import group_anagrams
+from leet_code.group_anagrams_49 import group_anagrams
 from pytest import mark
 
 

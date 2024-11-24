@@ -1,4 +1,4 @@
-from leet_code.gas_station import can_complete_circuit
+from leet_code.gas_station_134 import can_complete_circuit
 from pytest import mark
 
 
