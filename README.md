@@ -92,6 +92,7 @@ Challenges solved:
     - 206\. Reverse Linked List;
   - Binary tree:
     - 104\. Maximum depth of binary tree;
+    - 872\. Leaf-similar trees;
   - Bit manipulation:
     - 136\. Single number;
   - Queue:
