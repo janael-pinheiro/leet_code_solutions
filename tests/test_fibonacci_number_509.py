@@ -1,4 +1,4 @@
-from leet_code.fibonacci_number import fib
+from leet_code.fibonacci_number_509 import fib
 from pytest import mark
 
 

@@ -1,4 +1,4 @@
-from leet_code.reverse_words_in_a_string_3 import reverse_words
+from leet_code.reverse_words_in_a_string_3_557 import reverse_words
 from pytest import mark
 
 

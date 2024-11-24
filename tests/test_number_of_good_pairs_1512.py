@@ -1,4 +1,4 @@
-from leet_code.number_of_good_pairs import num_identical_pairs
+from leet_code.number_of_good_pairs_1512 import num_identical_pairs
 from pytest import mark
 
 

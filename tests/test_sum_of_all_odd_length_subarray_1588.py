@@ -1,4 +1,4 @@
-from leet_code.sum_of_all_odd_length_subarray import sum_odd_length_sub_arrays
+from leet_code.sum_of_all_odd_length_subarray_1588 import sum_odd_length_sub_arrays
 from pytest import mark
 
 

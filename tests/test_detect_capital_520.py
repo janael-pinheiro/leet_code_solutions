@@ -1,6 +1,6 @@
 from pytest import mark
 
-from leet_code.detect_capital import detect_capital_use
+from leet_code.detect_capital_520 import detect_capital_use
 
 
 @mark.parametrize("word, expected", [

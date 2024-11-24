@@ -1,4 +1,4 @@
-from leet_code.contains_duplicate import contains_duplicate
+from leet_code.contains_duplicate_217 import contains_duplicate
 from pytest import mark
 
 

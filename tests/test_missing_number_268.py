@@ -1,4 +1,4 @@
-from leet_code.missing_number import missing_number
+from leet_code.missing_number_268 import missing_number
 from pytest import mark
 
 

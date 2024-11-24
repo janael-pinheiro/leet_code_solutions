@@ -1,4 +1,4 @@
-from leet_code.find_the_k_th_character_in_string_game_I import kth_character
+from leet_code.find_the_k_th_character_in_string_game_I_3304 import kth_character
 from pytest import mark
 
 

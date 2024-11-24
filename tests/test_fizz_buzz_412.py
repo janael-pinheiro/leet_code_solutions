@@ -1,4 +1,4 @@
-from leet_code.fizz_buzz import fizz_buzz
+from leet_code.fizz_buzz_412 import fizz_buzz
 from pytest import mark
 
 

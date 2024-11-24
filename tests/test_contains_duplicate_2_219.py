@@ -1,4 +1,4 @@
-from leet_code.contains_duplicate_2 import contains_nearby_duplicate
+from leet_code.contains_duplicate_2_219 import contains_nearby_duplicate
 from pytest import mark
 
 

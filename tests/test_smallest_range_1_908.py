@@ -1,4 +1,4 @@
-from leet_code.smallest_range import smallest_range
+from leet_code.smallest_range_1_908 import smallest_range
 from pytest import mark
 
 

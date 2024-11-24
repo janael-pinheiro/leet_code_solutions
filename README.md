@@ -11,7 +11,6 @@ Challenges solved:
 - Find the index of the first occurrence in a string;
 - Valid parentheses;
 - Ransom note;
-- Contains duplicate 2;
 - Summary ranges;
 - Happy number;
 - Valid anagram;
@@ -46,16 +45,6 @@ Challenges solved:
 - Minimum depth binary tree;
 - Reverse string;
 - Power of two;
-- Find the kth character in string game I;
-- Fibonacci number;
-- Contains duplicate;
-- Fizz Buzz;
-- Reverse words in a string 3;
-- Detect capital;
-- Missing number;
-- Smallest range;
-- Number of good pairs;
-- Sum of all odd length sub arrays;
 
 - **Medium**:
   - Array/String:
@@ -80,16 +69,25 @@ Challenges solved:
     - 1431\. Kids with the greatest number of candies;
     - 605\. Can place flowers;
     - 345\. Reverse vowels of a string;
+    - 1512\. Number of good pairs;
+    - 908\. Smallest range;
+    - 268\. Missing number;
+    - 520\. Detect capital;
+    - 412\. Fizz Buzz;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
+    - 557\. Reverse words in a string 3;
   - Sliding Window:
     - 643\. Maximum average subarray 1;
   - Prefix sum:
     - 1732\. Find the highest altitude;
+    - 1588\. Sum of all odd length sub arrays;
   - Hashmap/Set:
     - 1207\. Unique number of occurrences;
     - 2215\. Find the difference of two arrays;
+    - 217\. Contains duplicate;
+    - 219\. Contains duplicate 2;
   - Linked list:
     - 206\. Reverse Linked List;
   - Binary tree:
@@ -98,3 +96,6 @@ Challenges solved:
     - 136\. Single number;
   - Queue:
     - 933\. Number of recent calls.
+  - Recursion:
+    - 509\. Fibonacci number;
+    - 3304\. Find the kth character in string game I;
