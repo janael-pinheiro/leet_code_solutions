@@ -66,6 +66,7 @@ Challenges solved:
     - 150\. Evaluate Reverse Polish notation;
   - Two pointers:
     - 11\. Container with most water;
+    - 1679\. Max number of K-sum Pairs;
   - Sliding Window:
     - 1456\. Maximum number of vowels in a substring of given length;
   - Greedy:
