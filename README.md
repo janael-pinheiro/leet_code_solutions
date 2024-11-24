@@ -95,3 +95,5 @@ Challenges solved:
     - 104\. Maximum depth of binary tree;
   - Bit manipulation:
     - 136\. Single number;
+  - Queue:
+    - 933\. Number of recent calls.
