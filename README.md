@@ -94,6 +94,7 @@ Challenges solved:
   - Binary tree:
     - 104\. Maximum depth of binary tree;
     - 872\. Leaf-similar trees;
+    - 700\. Search in a binary search tree;
   - Bit manipulation:
     - 136\. Single number;
   - Queue:
