@@ -58,6 +58,7 @@ Challenges solved:
     - 1679\. Max number of K-sum Pairs;
   - Sliding Window:
     - 1456\. Maximum number of vowels in a substring of given length;
+    - 1004\. Max consecutive ones 3;
   - Greedy:
     - 134\. Gas station;
   - Hashmap/set:
