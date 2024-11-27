@@ -55,6 +55,7 @@ Challenges solved:
     - 2095\. Delete the middle node of a linked list;
   - Stack:
     - 150\. Evaluate Reverse Polish notation;
+    - 2390\. Removing stars from a string;
   - Two pointers:
     - 11\. Container with most water;
     - 1679\. Max number of K-sum Pairs;
