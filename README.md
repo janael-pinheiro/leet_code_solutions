@@ -61,6 +61,7 @@ Challenges solved:
   - Sliding Window:
     - 1456\. Maximum number of vowels in a substring of given length;
     - 1004\. Max consecutive ones 3;
+    - 1493\. Longest subarray of 1's after deleting one element;
   - Greedy:
     - 134\. Gas station;
   - Hashmap/set:
