@@ -80,6 +80,7 @@ Challenges solved:
     - 520\. Detect capital;
     - 412\. Fizz Buzz;
     - 500\. Keyboard row;
+    - 804\. Unique morse code words;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
