@@ -79,6 +79,7 @@ Challenges solved:
     - 268\. Missing number;
     - 520\. Detect capital;
     - 412\. Fizz Buzz;
+    - 500\. Keyboard row;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
