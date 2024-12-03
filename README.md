@@ -51,6 +51,7 @@ Challenges solved:
     - 443\. String compression;
     - 151\. Reverse words in a string;
     - 238\. Product of array except self;
+    - 334\. Increasing triplet subsequence;
   - Linked list:
     - 2095\. Delete the middle node of a linked list;
   - Stack:
