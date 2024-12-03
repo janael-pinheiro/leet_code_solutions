@@ -70,6 +70,8 @@ Challenges solved:
   - Hashmap/set:
     - 49\. Group anagrams;
     - 128\. Longest consecutive sequence;
+  - Queue:
+    - 2109\. Adding spaces to a string;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
