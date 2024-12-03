@@ -98,6 +98,7 @@ Challenges solved:
     - 2215\. Find the difference of two arrays;
     - 217\. Contains duplicate;
     - 219\. Contains duplicate 2;
+    - 387\. First unique character in a string;
   - Linked list:
     - 206\. Reverse Linked List;
   - Binary tree:
