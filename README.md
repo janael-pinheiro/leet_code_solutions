@@ -70,6 +70,7 @@ Challenges solved:
   - Hashmap/set:
     - 49\. Group anagrams;
     - 128\. Longest consecutive sequence;
+    - 1657\. Determine if two strings are close;
   - Queue:
     - 2109\. Adding spaces to a string;
 - **Easy**:
