@@ -71,6 +71,7 @@ Challenges solved:
     - 49\. Group anagrams;
     - 128\. Longest consecutive sequence;
     - 1657\. Determine if two strings are close;
+    - 2352\. Equal row and column pairs;
   - Queue:
     - 2109\. Adding spaces to a string;
 - **Easy**:
