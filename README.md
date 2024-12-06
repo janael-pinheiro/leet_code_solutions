@@ -116,3 +116,5 @@ Challenges solved:
   - Recursion:
     - 509\. Fibonacci number;
     - 3304\. Find the kth character in string game I;
+  - Dynamic Programming:
+    - 1137\. N-th Tribonacci number;
