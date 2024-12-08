@@ -76,6 +76,8 @@ Challenges solved:
   - Queue:
     - 2109\. Adding spaces to a string;
     - 649\. Dota2 senate;
+  - Graphs:
+    - 841\. Keys and rooms;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
