@@ -75,6 +75,7 @@ Challenges solved:
     - 2352\. Equal row and column pairs;
   - Queue:
     - 2109\. Adding spaces to a string;
+    - 649\. Dota2 senate;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
