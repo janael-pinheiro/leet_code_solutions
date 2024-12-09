@@ -78,6 +78,8 @@ Challenges solved:
     - 649\. Dota2 senate;
   - Graphs:
     - 841\. Keys and rooms;
+  - Sorting:
+    - 75\. Sort colors;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
