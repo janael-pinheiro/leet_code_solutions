@@ -80,6 +80,8 @@ Challenges solved:
     - 841\. Keys and rooms;
   - Sorting:
     - 75\. Sort colors;
+  - Binary tree:
+    - 1448\. Count good nodes in binary tree;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
