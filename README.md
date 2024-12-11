@@ -82,6 +82,7 @@ Challenges solved:
     - 75\. Sort colors;
   - Binary tree:
     - 1448\. Count good nodes in binary tree;
+    - 199\. Binary tree right side view;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
