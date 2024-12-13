@@ -83,6 +83,8 @@ Challenges solved:
   - Binary tree:
     - 1448\. Count good nodes in binary tree;
     - 199\. Binary tree right side view;
+  - Binary search:
+    - 162\. Find peak element;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
