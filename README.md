@@ -86,6 +86,7 @@ Challenges solved:
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
+    - 34\. Find first and last position of element in sorted array;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
