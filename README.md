@@ -85,6 +85,7 @@ Challenges solved:
     - 199\. Binary tree right side view;
   - Binary search:
     - 162\. Find peak element;
+    - 33\. Search in rotated sorted array;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
