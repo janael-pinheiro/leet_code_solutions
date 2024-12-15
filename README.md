@@ -83,6 +83,7 @@ Challenges solved:
   - Binary tree:
     - 1448\. Count good nodes in binary tree;
     - 199\. Binary tree right side view;
+    - 236\. Lowest common ancestor of a binary tree;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
