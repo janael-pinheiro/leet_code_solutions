@@ -87,6 +87,7 @@ Challenges solved:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
     - 34\. Find first and last position of element in sorted array;
+    - 2300\. Successful pairs of spells and potions;
 - **Easy**:
   - Array/String:
     - 1768\. Merge strings alternately;
