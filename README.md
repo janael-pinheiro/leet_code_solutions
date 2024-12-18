@@ -78,6 +78,7 @@ Challenges solved:
     - 649\. Dota2 senate;
   - Graphs:
     - 841\. Keys and rooms;
+    - 1926\. Nearest exit from entrance in maze;
   - Sorting:
     - 75\. Sort colors;
   - Binary tree:
