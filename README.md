@@ -1,50 +1,6 @@
 # LeetCode Solutions
 
 Challenges solved:
-- Remove duplicates from sorted array;
-- Majority element;
-- Roman to integer;
-- Integer to roman;
-- Merge two sorted arrays;
-- Length of last word;
-- Longest common prefix;
-- Find the index of the first occurrence in a string;
-- Valid parentheses;
-- Ransom note;
-- Summary ranges;
-- Happy number;
-- Valid anagram;
-- Best time to buy and sell stock; 
-- Best time to buy and sell stock 2;
-- Valid palindrome;
-- Same tree;
-- Invert Binary Tree;
-- Path sum;
-- Count complete tree nodes;
-- Symmetric tree;
-- Search insert position;
-- Word pattern;
-- Plus one;
-- Rotate array;
-- Merge two sorted lists;
-- Square root;
-- Number of 1 bits;
-- Reverse bits;
-- Maximum size subarray sum;
-- Longest Substring Without Repeating Characters;
-- Two sum II - input array is sorted;
-- Add two numbers;
-- Reverse linked list 2;
-- Kth smallest element in a BST;
-- Jump game;
-- Jump game 2;
-- Remove duplicates from sorted list;
-- Binary tree inorder transversal;
-- Binary tree preorder transversal;
-- Binary tree postorder transversal;
-- Minimum depth binary tree;
-- Reverse string;
-- Power of two;
 
 - **Medium**:
   - Array/String:
@@ -52,7 +8,11 @@ Challenges solved:
     - 151\. Reverse words in a string;
     - 238\. Product of array except self;
     - 334\. Increasing triplet subsequence;
+    - 189\. Rotate array;
+    - 122\. Best time to buy and sell stock 2;
   - Linked list:
+    - 2\. Add two numbers;
+    - 92\. Reverse linked list 2;
     - 2095\. Delete the middle node of a linked list;
   - Stack:
     - 150\. Evaluate Reverse Polish notation;
@@ -62,17 +22,23 @@ Challenges solved:
   - Two pointers:
     - 11\. Container with most water;
     - 1679\. Max number of K-sum Pairs;
+    - 167\. Two sum II - input array is sorted;
   - Sliding Window:
     - 1456\. Maximum number of vowels in a substring of given length;
     - 1004\. Max consecutive ones 3;
     - 1493\. Longest subarray of 1's after deleting one element;
+    - 3\. Longest Substring Without Repeating Characters;
+    - 209\. Maximum size subarray sum;
   - Greedy:
     - 134\. Gas station;
+    - 55\. Jump game;
+    - 45\. Jump game 2;
   - Hashmap/set:
     - 49\. Group anagrams;
     - 128\. Longest consecutive sequence;
     - 1657\. Determine if two strings are close;
     - 2352\. Equal row and column pairs;
+    - 12\. Integer to roman;
   - Queue:
     - 2109\. Adding spaces to a string;
     - 649\. Dota2 senate;
@@ -85,13 +51,16 @@ Challenges solved:
     - 1448\. Count good nodes in binary tree;
     - 199\. Binary tree right side view;
     - 236\. Lowest common ancestor of a binary tree;
+    - 230\. Kth smallest element in a BST;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
     - 34\. Find first and last position of element in sorted array;
     - 2300\. Successful pairs of spells and potions;
+
 - **Easy**:
   - Array/String:
+    - 26\. Remove duplicates from sorted array;
     - 1768\. Merge strings alternately;
     - 1431\. Kids with the greatest number of candies;
     - 605\. Can place flowers;
@@ -104,10 +73,19 @@ Challenges solved:
     - 500\. Keyboard row;
     - 804\. Unique morse code words;
     - 1071\. Greatest common divisor of strings;
+    - 344\. Reverse string;
+    - 66\. Plus one;
+    - 121\. Best time to buy and sell stock;
+    - 228\. Summary ranges;
+    - 28\. Find the index of the first occurrence in a string;
+    - 58\. Length of last word;
+    - 14\. Longest common prefix;
+    - 88\. Merge sorted array;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
     - 557\. Reverse words in a string 3;
+    - 125\. Valid palindrome;
   - Sliding Window:
     - 643\. Maximum average subarray 1;
   - Prefix sum:
@@ -119,14 +97,36 @@ Challenges solved:
     - 217\. Contains duplicate;
     - 219\. Contains duplicate 2;
     - 387\. First unique character in a string;
+    - 290\. Word pattern;
+    - 242\. Valid anagram;
+    - 202\. Happy number;
+    - 383\. Ransom note;
+    - 13\. Roman to integer;
+    - 169\. Majority element;
   - Linked list:
+    - 83\. Remove duplicates from sorted list;
     - 206\. Reverse Linked List;
+    - 21\. Merge two sorted lists;
   - Binary tree:
     - 104\. Maximum depth of binary tree;
+    - 111\. Minimum depth binary tree;
     - 872\. Leaf-similar trees;
     - 700\. Search in a binary search tree;
+    - 94\. Binary tree inorder transversal;
+    - 144\. Binary tree preorder transversal;
+    - 145\. Binary tree postorder transversal;
+    - 101\. Symmetric tree;
+    - 222\. Count complete tree nodes;
+    - 100\. Same tree;
+    - 226\. Invert Binary Tree;
+    - 112\. Path sum;
+  - Binary search:
+    - 35\. Search insert position;
   - Bit manipulation:
     - 136\. Single number;
+    - 231\. Power of two;
+    - 190\. Reverse bits;
+    - 191\. Number of 1 bits;
   - Queue:
     - 933\. Number of recent calls.
   - Recursion:
@@ -134,3 +134,5 @@ Challenges solved:
     - 3304\. Find the kth character in string game I;
   - Dynamic Programming:
     - 1137\. N-th Tribonacci number;
+  - Stack:
+    - 20\. Valid parentheses;
