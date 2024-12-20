@@ -45,6 +45,7 @@ Challenges solved:
   - Graphs:
     - 841\. Keys and rooms;
     - 1926\. Nearest exit from entrance in maze;
+    - 994\. Rotting oranges;
   - Sorting:
     - 75\. Sort colors;
   - Binary tree:
