@@ -19,6 +19,7 @@ Challenges solved:
     - 2390\. Removing stars from a string;
     - 735\. Asteroid collision;
     - 394\. Decode String;
+    - 71\. Simplify path;
   - Two pointers:
     - 11\. Container with most water;
     - 1679\. Max number of K-sum Pairs;
