@@ -59,6 +59,8 @@ Challenges solved:
     - 33\. Search in rotated sorted array;
     - 34\. Find first and last position of element in sorted array;
     - 2300\. Successful pairs of spells and potions;
+  - Matrix:
+    - 36\. Valid Sudoku;
 
 - **Easy**:
   - Array/String:
