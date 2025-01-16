@@ -20,6 +20,7 @@ Challenges solved:
     - 735\. Asteroid collision;
     - 394\. Decode String;
     - 71\. Simplify path;
+    - 155\. MinStack;
   - Two pointers:
     - 11\. Container with most water;
     - 1679\. Max number of K-sum Pairs;
