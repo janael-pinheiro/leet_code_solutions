@@ -55,6 +55,7 @@ Challenges solved:
     - 199\. Binary tree right side view;
     - 236\. Lowest common ancestor of a binary tree;
     - 230\. Kth smallest element in a BST;
+    - 114\. Flatten binary tree to linked list;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
