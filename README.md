@@ -19,6 +19,8 @@ Challenges solved:
     - 2390\. Removing stars from a string;
     - 735\. Asteroid collision;
     - 394\. Decode String;
+    - 71\. Simplify path;
+    - 155\. MinStack;
   - Two pointers:
     - 11\. Container with most water;
     - 1679\. Max number of K-sum Pairs;
@@ -45,6 +47,8 @@ Challenges solved:
   - Graphs:
     - 841\. Keys and rooms;
     - 1926\. Nearest exit from entrance in maze;
+    - 994\. Rotting oranges;
+    - 547\. Number of Provinces;
   - Sorting:
     - 75\. Sort colors;
   - Binary tree:
@@ -52,11 +56,15 @@ Challenges solved:
     - 199\. Binary tree right side view;
     - 236\. Lowest common ancestor of a binary tree;
     - 230\. Kth smallest element in a BST;
+    - 114\. Flatten binary tree to linked list;
+    - 103\. Binary Tree Zigzag Level Order Traversal;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
     - 34\. Find first and last position of element in sorted array;
     - 2300\. Successful pairs of spells and potions;
+  - Matrix:
+    - 36\. Valid Sudoku;
 
 - **Easy**:
   - Array/String:
