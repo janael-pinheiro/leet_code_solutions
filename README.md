@@ -48,6 +48,7 @@ Challenges solved:
     - 841\. Keys and rooms;
     - 1926\. Nearest exit from entrance in maze;
     - 994\. Rotting oranges;
+    - 547\. Number of Provinces;
   - Sorting:
     - 75\. Sort colors;
   - Binary tree:
