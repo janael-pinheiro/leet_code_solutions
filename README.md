@@ -57,6 +57,7 @@ Challenges solved:
     - 236\. Lowest common ancestor of a binary tree;
     - 230\. Kth smallest element in a BST;
     - 114\. Flatten binary tree to linked list;
+    - 102\. Binary Tree Level Order Traversal;
     - 103\. Binary Tree Zigzag Level Order Traversal;
   - Binary search:
     - 162\. Find peak element;
