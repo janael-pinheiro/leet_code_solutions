@@ -59,6 +59,7 @@ Challenges solved:
     - 114\. Flatten binary tree to linked list;
     - 102\. Binary Tree Level Order Traversal;
     - 103\. Binary Tree Zigzag Level Order Traversal;
+    - 530\. Minimum Absolute Difference in BST;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
