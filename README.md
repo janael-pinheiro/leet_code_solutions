@@ -92,6 +92,7 @@ Challenges solved:
     - 58\. Length of last word;
     - 14\. Longest common prefix;
     - 88\. Merge sorted array;
+    - 1684\. Count the number of consistent strings;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
