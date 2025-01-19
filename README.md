@@ -68,6 +68,7 @@ Challenges solved:
     - 2300\. Successful pairs of spells and potions;
   - Matrix:
     - 36\. Valid Sudoku;
+    - 73\. Set matrix zeroes;
 
 - **Easy**:
   - Array/String:
