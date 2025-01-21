@@ -69,6 +69,7 @@ Challenges solved:
   - Matrix:
     - 36\. Valid Sudoku;
     - 73\. Set matrix zeroes;
+    - 54\. Spiral matrix;
 
 - **Easy**:
   - Array/String:
