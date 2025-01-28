@@ -95,6 +95,7 @@ Challenges solved:
     - 14\. Longest common prefix;
     - 88\. Merge sorted array;
     - 1684\. Count the number of consistent strings;
+    - 448\. Find all numbers disappeared in an array;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
