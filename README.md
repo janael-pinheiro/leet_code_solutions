@@ -70,6 +70,7 @@ Challenges solved:
     - 36\. Valid Sudoku;
     - 73\. Set matrix zeroes;
     - 54\. Spiral matrix;
+    - 48\. Rotate image;
 
 - **Easy**:
   - Array/String:
