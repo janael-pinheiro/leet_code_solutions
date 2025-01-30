@@ -71,6 +71,7 @@ Challenges solved:
     - 73\. Set matrix zeroes;
     - 54\. Spiral matrix;
     - 48\. Rotate image;
+    - 289\. Game of life;
 
 - **Easy**:
   - Array/String:
