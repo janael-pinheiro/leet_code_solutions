@@ -101,6 +101,7 @@ Challenges solved:
     - 1528\. Shuffle string;
     - 682\. Baseball game;
     - 506\. Relative ranks;
+    - 704\. Binary search;
   - Two pointers:
     - 283\. Move zeros;
     - 392\. Is subsequence;
