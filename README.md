@@ -72,6 +72,8 @@ Challenges solved:
     - 54\. Spiral matrix;
     - 48\. Rotate image;
     - 289\. Game of life;
+  - Backtracking:
+    - 46\. Permutations;
 
 - **Easy**:
   - Array/String:
