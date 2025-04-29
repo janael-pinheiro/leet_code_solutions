@@ -41,6 +41,7 @@ Challenges solved:
     - 1657\. Determine if two strings are close;
     - 2352\. Equal row and column pairs;
     - 12\. Integer to roman;
+    - 287\. Find the duplicate number;the
   - Queue:
     - 2109\. Adding spaces to a string;
     - 649\. Dota2 senate;
