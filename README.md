@@ -43,6 +43,7 @@ Challenges solved:
     - 12\. Integer to roman;
     - 287\. Find the duplicate number;
     - 442\. Find all duplicates in an array;
+    - 451\. Sort Characters by frequency;
   - Queue:
     - 2109\. Adding spaces to a string;
     - 649\. Dota2 senate;
