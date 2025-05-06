@@ -78,6 +78,7 @@ Challenges solved:
   - Backtracking:
     - 46\. Permutations;
     - 78\. Subsets;
+    - 784\. Letter case permutation;
 
 - **Easy**:
   - Array/String:
