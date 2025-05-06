@@ -77,6 +77,7 @@ Challenges solved:
     - 289\. Game of life;
   - Backtracking:
     - 46\. Permutations;
+    - 78\. Subsets;
 
 - **Easy**:
   - Array/String:
