@@ -80,6 +80,7 @@ Challenges solved:
     - 78\. Subsets;
     - 784\. Letter case permutation;
     - 17\. Letter combinations of a phone number;
+    - 39\. Combination sum;
 
 - **Easy**:
   - Array/String:
