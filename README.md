@@ -121,6 +121,7 @@ Challenges solved:
   - Prefix sum:
     - 1732\. Find the highest altitude;
     - 1588\. Sum of all odd length sub arrays;
+    - 724\. Find pivot index;
   - Hashmap/Set:
     - 1207\. Unique number of occurrences;
     - 2215\. Find the difference of two arrays;
