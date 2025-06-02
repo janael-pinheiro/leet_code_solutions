@@ -66,6 +66,7 @@ Challenges solved:
     - 173\. Binary search tree iterator;
     - 109\. Convert sorted list to binary search tree;
     - 513\. Find bottom left tree value;
+    - 1382\. Balance a binary search tree;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
