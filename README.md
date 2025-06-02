@@ -64,6 +64,7 @@ Challenges solved:
     - 103\. Binary Tree Zigzag Level Order Traversal;
     - 530\. Minimum Absolute Difference in BST;
     - 173\. Binary search tree iterator;
+    - 109\. Convert sorted list to binary search tree;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
@@ -151,7 +152,7 @@ Challenges solved:
     - 100\. Same tree;
     - 226\. Invert Binary Tree;
     - 112\. Path sum;
-    - 109\. Convert sorted list to binary search tree;
+    - 108\. Convert sorted array to binary search tree;    
   - Binary search:
     - 35\. Search insert position;
   - Bit manipulation:
