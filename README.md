@@ -151,6 +151,7 @@ Challenges solved:
     - 100\. Same tree;
     - 226\. Invert Binary Tree;
     - 112\. Path sum;
+    - 109\. Convert sorted list to binary search tree;
   - Binary search:
     - 35\. Search insert position;
   - Bit manipulation:
