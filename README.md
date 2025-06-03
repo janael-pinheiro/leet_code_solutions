@@ -67,6 +67,7 @@ Challenges solved:
     - 109\. Convert sorted list to binary search tree;
     - 513\. Find bottom left tree value;
     - 1382\. Balance a binary search tree;
+    - 2196\. Create binary tree from descriptions;
   - Binary search:
     - 162\. Find peak element;
     - 33\. Search in rotated sorted array;
