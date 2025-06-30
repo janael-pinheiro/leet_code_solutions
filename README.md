@@ -85,6 +85,8 @@ Challenges solved:
     - 784\. Letter case permutation;
     - 17\. Letter combinations of a phone number;
     - 39\. Combination sum;
+  - Math:
+    - 1492\. The kth factor of n;
 
 - **Easy**:
   - Array/String:
